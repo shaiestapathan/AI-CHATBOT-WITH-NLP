@@ -72,3 +72,7 @@ User-focused features like history, clear, and exit options
 Pookie the Chatbot is a great example of how logic, user interface design, and real-world data can come together to create a fun, educational, and interactive application. This project reflects skills that are valuable in NLP, UI/UX design, and intelligent software development
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f589cdd1-d046-466c-a078-3459999b9d0b)
+
+![Image](https://github.com/user-attachments/assets/400c9e94-e9e6-4e16-a46b-1bbdb2480f59)
